@@ -1,0 +1,760 @@
+{
+  "data": [
+    {
+      "operator_id": 22,
+      "name": "BSES Rajdhani",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 7
+    },
+    {
+      "operator_id": 23,
+      "name": "BSES Yamuna",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 7
+    },
+    {
+      "operator_id": 24,
+      "name": "Tata Power - Delhi",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 7
+    },
+    {
+      "operator_id": 53,
+      "name": "BEST Mumbai",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 27
+    },
+    {
+      "operator_id": 55,
+      "name": "Southern Power Distribution (APSPDCL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 37
+    },
+    {
+      "operator_id": 56,
+      "name": "Bangalore Electricity (BESCOM)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 29
+    },
+    {
+      "operator_id": 57,
+      "name": "M.P. Madhya Kshetra Vidyut Vitaran - URBAN",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 23
+    },
+    {
+      "operator_id": 59,
+      "name": "M.P. Paschim Kshetra Vidyut Vitaran",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 23
+    },
+    {
+      "operator_id": 60,
+      "name": "CESC Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 19
+    },
+    {
+      "operator_id": 61,
+      "name": "Chattisgarh State Power",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 22
+    },
+    {
+      "operator_id": 62,
+      "name": "MSEDCL-Maharashtra State Electricity Distribution Co Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 27
+    },
+    {
+      "operator_id": 63,
+      "name": "Torrent Power",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 69,
+      "name": "Jamshedpur Utilities (JUSCO)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 20
+    },
+    {
+      "operator_id": 76,
+      "name": "DNH Power Distribution",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 26
+    },
+    {
+      "operator_id": 78,
+      "name": "M.P. Poorv Kshetra Vidyut Vitaran - URBAN",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 23
+    },
+    {
+      "operator_id": 81,
+      "name": "North Bihar Power",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 10
+    },
+    {
+      "operator_id": 82,
+      "name": "South Bihar Power",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 10
+    },
+    {
+      "operator_id": 96,
+      "name": "Assam Power (APDCL RAPDR)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 18
+    },
+    {
+      "operator_id": 101,
+      "name": "Dakshin Gujarat Vij Company (DGVCL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 24
+    },
+    {
+      "operator_id": 107,
+      "name": "Madhya Gujarat Vij Company (MGVCL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 24
+    },
+    {
+      "operator_id": 109,
+      "name": "Paschim Gujarat Vij Company (PGVCL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 24
+    },
+    {
+      "operator_id": 115,
+      "name": "Uttar Gujarat Vij Company (UGVCL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 24
+    },
+    {
+      "operator_id": 121,
+      "name": "Kota Electricity Distribution Limited (KEDL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 8
+    },
+    {
+      "operator_id": 122,
+      "name": "Bharatpur Electricity Services Ltd. (BESL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 8
+    },
+    {
+      "operator_id": 125,
+      "name": "Jaipur Vidyut Nigam (JVVNL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 8
+    },
+    {
+      "operator_id": 126,
+      "name": "Ajmer Vidyut Vitran Nigam (AVVNL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 8
+    },
+    {
+      "operator_id": 131,
+      "name": "Uttar Pradesh Power Corp Ltd - URBAN",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 9
+    },
+    {
+      "operator_id": 133,
+      "name": "Uttarakhand Power Corporation Limited (Old)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 5
+    },
+    {
+      "operator_id": 136,
+      "name": "SNDL Nagpur",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 27
+    },
+    {
+      "operator_id": 137,
+      "name": "NESCO - Odisha",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 21
+    },
+    {
+      "operator_id": 138,
+      "name": "SOUTHCO - Odisha",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 21
+    },
+    {
+      "operator_id": 139,
+      "name": "Tata Power - Mumbai",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 27
+    },
+    {
+      "operator_id": 140,
+      "name": "TP Ajmer Distribution Ltd (TPADL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 8
+    },
+    {
+      "operator_id": 141,
+      "name": "Bikaner Electricity Supply Limited (BkESL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 8
+    },
+    {
+      "operator_id": 142,
+      "name": "Daman and Diu Electricity",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 25
+    },
+    {
+      "operator_id": 143,
+      "name": "WESCO",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 21
+    },
+    {
+      "operator_id": 145,
+      "name": "Jodhpur Vidyut Vitran Nigam (JDVVNL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 8
+    },
+    {
+      "operator_id": 148,
+      "name": "Gulbarga Electricity",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 29
+    },
+    {
+      "operator_id": 149,
+      "name": "Tamil Nadu Electricity Board (TNEB)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 33
+    },
+    {
+      "operator_id": 150,
+      "name": "Uttar Haryana Bijli Vitran Nigam",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 6
+    },
+    {
+      "operator_id": 153,
+      "name": "Dakshin Haryana Bijli Vitran Nigam",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 6
+    },
+    {
+      "operator_id": 155,
+      "name": "Chamundeshwari Electricity",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 29
+    },
+    {
+      "operator_id": 156,
+      "name": "Hubli Electricity",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 29
+    },
+    {
+      "operator_id": 160,
+      "name": "Assam Power (APDCL NON-RAPDR)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 18
+    },
+    {
+      "operator_id": 164,
+      "name": "Eastern Power Distribution Company Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 37
+    },
+    {
+      "operator_id": 166,
+      "name": "Himachal Pradesh State Electricity Board",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 2
+    },
+    {
+      "operator_id": 171,
+      "name": "Jharkhand Bijli Vitran Nigam",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 20
+    },
+    {
+      "operator_id": 174,
+      "name": "M.P. Madhya Kshetra Vidyut Vitaran - RURAL",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 23
+    },
+    {
+      "operator_id": 175,
+      "name": "M.P. Poorv Kshetra Vidyut Vitaran",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 23
+    },
+    {
+      "operator_id": 178,
+      "name": "New Delhi Municipal Council (NDMC) - Electricity",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 7
+    },
+    {
+      "operator_id": 190,
+      "name": "Uttar Pradesh Power Corp Ltd (UPPCL) - RURAL",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 9
+    },
+    {
+      "operator_id": 195,
+      "name": "Kanpur Electricity Supply Company",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 9
+    },
+    {
+      "operator_id": 198,
+      "name": "Goa Electricity Department",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 30
+    },
+    {
+      "operator_id": 204,
+      "name": "West Bengal Electricity",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 19
+    },
+    {
+      "operator_id": 230,
+      "name": "HDFC Bank Credit Card",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 238,
+      "name": "Sikkim Power - URBAN",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 11
+    },
+    {
+      "operator_id": 239,
+      "name": "Sikkim Power - RURAL",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 11
+    },
+    {
+      "operator_id": 242,
+      "name": "Adani Electricity Mumbai Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 27
+    },
+    {
+      "operator_id": 243,
+      "name": "Power & Electricity Department - Mizoram",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 15
+    },
+    {
+      "operator_id": 244,
+      "name": "Mangalore Electricity Supply Co. Ltd (MESCOM) - RAPDR",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 29
+    },
+    {
+      "operator_id": 245,
+      "name": "TP Central Odisha Distribution Ltd",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 21
+    },
+    {
+      "operator_id": 246,
+      "name": "Department of Power, Nagaland",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 13
+    },
+    {
+      "operator_id": 247,
+      "name": "Kerala State Electricity Board Ltd. (KSEBL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 32
+    },
+    {
+      "operator_id": 364,
+      "name": "Department of Power, Government of Arunachal Pradesh",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 12
+    },
+    {
+      "operator_id": 375,
+      "name": "Electricity Department Chandigarh",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 4
+    },
+    {
+      "operator_id": 397,
+      "name": "Gift Power Company Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 24
+    },
+    {
+      "operator_id": 452,
+      "name": "Jammu and Kashmir Power Development Department",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 1
+    },
+    {
+      "operator_id": 465,
+      "name": "Kanan Devan Hills Plantations Company Private Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 32
+    },
+    {
+      "operator_id": 473,
+      "name": "Lakshadweep Electricity Department",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 31
+    },
+    {
+      "operator_id": 491,
+      "name": "Mangalore Electricity Supply Company LTD (Non RAPDR)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 29
+    },
+    {
+      "operator_id": 546,
+      "name": "Punjab State Power",
+      "billFetchResponse": 0,
+      "high_commission_channel": 1,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 3
+    },
+    {
+      "operator_id": 598,
+      "name": "TPRMG",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 9
+    },
+    {
+      "operator_id": 603,
+      "name": "Uttarakhand Power Corporation Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 5
+    },
+    {
+      "operator_id": 3018,
+      "name": "Andhra Pradesh Central Power distribution Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5045,
+      "name": "Ladakh Power Development Department (LPDD)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5047,
+      "name": "Jammu Power Distribution Corporation (JPDCL)",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5081,
+      "name": "Manipur State Power Distribution Company Limited",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5082,
+      "name": "Kinesco Power and Utilities Pvt Ltd",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5090,
+      "name": "Power and Electricity Department - Mizoram",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5091,
+      "name": "UPPCL-Postpaid and Smart Prepaid Meter Recharge",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5162,
+      "name": "The Co operative Electric Supply Society Ltd Sircilla",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 1,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5164,
+      "name": "Meghalaya Power Distribution Corporati on Ltd",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5170,
+      "name": "MePDCL Smart Prepaid Meter Recharge",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 0
+    },
+    {
+      "operator_id": 5182,
+      "name": "Assam Power Distribution Corporation (Electricity) â\u20AC\u201C Prepaid",
+      "billFetchResponse": 0,
+      "high_commission_channel": 0,
+      "kyc_required": 0,
+      "operator_category": 8,
+      "location_id": 0
+    }
+  ]
+}
